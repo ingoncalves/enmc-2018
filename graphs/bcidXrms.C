@@ -104,5 +104,5 @@ void bcidXrms()
     // build legend
     c1->BuildLegend(0.55,0.29,0.96,0.15);
 
-    c1->Print("../bcidXrms.eps");
+    c1->Print("../out/bcidXrms.eps");
 }
